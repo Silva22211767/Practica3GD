@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Sistema Lotka-Volterra
+title: Liberación controlada de fármacos por hidrogeles
 message: >-
   Gemelos digitales / Ingeniería Biomédica / Tecnológico
   Nacional de México
@@ -12,13 +12,13 @@ authors:
     family-names: Silva Pérez
     email: l22211767@tectijuana.edu.mx
     affiliation: Tecnológico Nacional de México
-repository-code: 'https://github.com/Silva22211767/Practica1GD'
+repository-code: 'https://github.com/Silva22211767/Practica3GD'
 keywords:
-  - Órbita
+  - Bioestadístico
+  - Farmacocinética
+  - Función
   - Modelo matemático
-  - Punto de equilibrio
-  - Regresión no lineal
-  - Positividad
+  - Regresión
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2026-02-18'
+date-released: '2026-04-22'
