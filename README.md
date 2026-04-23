@@ -28,3 +28,10 @@ En el contexto de sistemas dinámicos que describen sistemas biológicos o fisio
 ## Lista de archivos incluidos en el repositorio
 1. Cuaderno computacional de MATLAB [.mlx].
 2. Imágenes de las simulaciones [.pdf].
+
+## Referencias
+\[1] P. A. Valle, Syllabus para Gemelos Digitales, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México, 2025. Permalink: https://biomath.xyz/course/
+
+\[2] Bryan, Kurt. Differential equations: A toolbox for modeling the world. Simiode, 2022. Permalink: https://www.simiode.org/resources/8307 
+
+\[3] González-Ayón, M. A., Sañudo-Barajas, J. A., Picos-Corrales, L. A., & Licea-Claverie, A. (2015). PNVCL-PEGMA nanohydrogels with tailored transition temperature for controlled delivery of 5-fluorouracil. Journal of Polymer Science Part A: Polymer Chemistry, 53(22), 2662–2672. https://doi.org/10.1002/pola.27766
